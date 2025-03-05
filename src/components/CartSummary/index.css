@@ -1,0 +1,69 @@
+/* Write your CSS here */
+
+.summaryCont {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: flex-end;
+  font-family: roboto;
+  flex-wrap: wrap;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.CheckoutBtn {
+  width: 100%;
+  background-color: #0b69ff;
+  border: none;
+  outline: none;
+  color: #ffffff;
+  font-family: roboto;
+  font-weight: bold;
+  border-radius: 5px;
+  padding: 10px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.headOrder {
+  color: #616e7c;
+  font-weight: bold;
+  padding: 2px;
+  margin: 1px;
+  font-size: medium;
+}
+
+.totalAmount {
+  font-size: larger;
+  color: #171f46;
+  font-weight: bolder;
+}
+
+.length {
+  font-size: smaller;
+  color: #616e7c;
+  font-weight: 400;
+  padding: 2px;
+  margin: 10px 1px;
+}
+
+@media (max-width: 576px) {
+  .summaryCont {
+    width: 100%;
+    box-shadow: none;
+    text-align: center;
+  }
+
+  .headOrder {
+    text-align: left;
+    width: 100%;
+  }
+
+  .length {
+    text-align: left;
+    width: 100%;
+  }
+}

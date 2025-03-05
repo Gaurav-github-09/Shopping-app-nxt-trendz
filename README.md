@@ -54,4 +54,3 @@ https://github.com/user-attachments/assets/885b6c28-3b9b-469d-a535-67c4d09cc135
 - When cart is empty it shows **No items in Cart** and a **Continue Shopping** button which will redirect to products page.
 </details>
 
----------------------------------------------------------------------# Shopping-app-nxt-trendz

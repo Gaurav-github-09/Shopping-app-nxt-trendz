@@ -10,13 +10,11 @@ In this project, i've built a **Nxt Trendz - Shopping** app.
 
 ### Refer to the video below:
 
-<br/>
-<div style="text-align: center;">
-  <video style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
-    <source src="https://assets.ccbp.in/frontend/content/react-js/nxt-trendz-cart-features-output.mp4" type="video/mp4">
-  </video>
-</div>
-<br/>
+
+
+https://github.com/user-attachments/assets/885b6c28-3b9b-469d-a535-67c4d09cc135
+
+
 
 
 ------------------------------------------------
